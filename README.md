@@ -9,7 +9,7 @@
 </p>
 
 <!--Sub tittle-->
-<h2 align= "center"; font-family= "Helvetica", "sans-serif"; font-weight = "bold">My Skills</h2>
+<h2 align= "center"; font-family= "Helvetica", "sans-serif"; font-weight = "bold">My skills</h2>
 
 <!--Tags-->
 <p align=center>
