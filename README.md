@@ -15,3 +15,9 @@
 <p align=center>
 <img src="https://via.placeholder.com/150x50/FFBF00/28282B?text=Strategy"> <img src="https://via.placeholder.com/150x50/FFBF00/28282B?text=Analysis"> <img src="https://via.placeholder.com/150x50/FFBF00/28282B?text=Modeling"> <img src="https://via.placeholder.com/150x50/FFBF00/28282B?text=SQL"> <img src="https://via.placeholder.com/150x50/FFBF00/28282B?text=Python">
 </p>
+
+<!--LinkedIn-->
+<h2  align="center">Reach me on</h2>
+<p align="center">
+<a target="_blank"href="https://www.linkedin.com/in/albillpe"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
